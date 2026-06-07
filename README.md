@@ -1,73 +1,161 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gunja&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20ML%20%7C%20Data%20Engineering&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-</div>
-<div align="center">
-Hi, I'm Gunja 👋
-Third-year CS Engineering Student @ Thapar Institute · Class of 2027
-Building AI-powered fintech tools · Passionate about ML pipelines, fraud detection, and data systems
-Show Image
-Show Image
-Show Image
-Show Image
-</div>
+# Hi, I'm Gunja 👋
 
-🚀 About Me
-pythongunja = {
-    "role"       : "SDE / Data / ML Intern Seeker",
-    "university" : "Thapar Institute of Engineering & Technology (2023–2027)",
-    "focus"      : ["AI-powered fintech tools", "NLP", "ML pipelines"],
-    "strengths"  : ["Python", "SQL", "Machine Learning", "NLP", "Data Pipelines"],
-    "goal"       : "Build scalable systems that ship fast and solve real problems",
-    "open_to"    : "SDE Intern · Data Analyst Intern · ML Intern (Summer 2026)"
-}
+### Computer Science Student | AI/ML Enthusiast | Competitive Programmer
 
-🏆 Featured Projects
-🔐 LoanSense — AI Loan Document Verifier ONGOING
+🎓 B.E. Computer Science & Engineering @ Thapar Institute of Engineering & Technology (2023–2027)
 
-Intelligent document verification platform for Indian borrowers
+🚀 Passionate about building AI-powered products, fraud detection systems, and scalable software solutions.
 
-Tech StackPython · NLP · Flask · StreamlitWhat it doesVerifies Aadhaar, PAN, Form 16 with instant red-flag detection for tampered documentsKey FeatureBilingual Hindi-English chatbot + 5-year EMI projection moduleImpactReal-time NLP pipeline for automated financial document extraction
+💡 Currently working on:
+- LoanSense – AI Loan Document Verification Platform
+- Fraud Detection Systems using SQL
+- Machine Learning & NLP Applications
 
-🤖 BERT Answer Evaluator — NLP Grading System
+---
 
-Automated subjective answer evaluation using BERT sentence similarity
+## 🚀 Featured Projects
 
-Tech StackPython · BERT · Transformers · Jupyter NotebookWhat it doesCompares student answers against reference answers using BERT embeddingsKey FeatureSemantic similarity scoring — goes beyond keyword matchingImpactDemonstrates NLP + Transformer model application end-to-end
+### 🏦 LoanSense – AI Loan Document Verifier
+> AI-powered fintech platform for Indian borrowers.
 
-🔬 Skin Lesion Detection — End-to-End ML
+**Tech Stack:** Python, NLP, Machine Learning
 
-Production-deployed ML classifier for skin lesion categorization
+✅ Automated verification of Aadhaar, PAN, Form-16 and financial documents
 
-Tech StackPython · Scikit-learn · Streamlit · VercelWhat it doesClassifies skin lesion categories from structured input with visual outputsKey FeatureDeployed production-ready AI UI on VercelImpactEnd-to-end ML pipeline — data → model → deployed product
+✅ Real-time document processing pipeline
 
-🛠️ Technical Skills
-<div align="center">
-CategoryTechnologiesLanguagesShow Image Show Image Show Image Show Image Show ImageAI / MLShow Image Show Image Show Image Show ImageDatabasesShow Image Show ImageToolsShow Image Show Image Show Image Show ImageCS FundamentalsDSA · OOP · Computer Networks · Relational DB Design
-</div>
+✅ Hindi-English chatbot for financial assistance
 
-🎯 Competitive Programming
-<div align="center">
-PlatformHandleAchievementShow Imagegunja1708Rating: 1058Show Imagegunja17082★ · Rating: 1410Show ImageYOUR_LEETCODE_HANDLEActive
-</div>
+✅ EMI projection and risk analysis engine
 
-🏅 Achievements
-<div align="center">
-AchievementDetails🥇 Flipkart GRiD 7.0 — National SemifinalistSelected among top teams nationwide · Innovative product design · 2025🏀 Gold Medalist — Inter-Year Basketball ChampionshipLed cross-functional team to Gold · Leadership under pressure
-</div>
+🔗 Repository: [LoanSense](#)
 
-📊 GitHub Stats
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=gunja1708&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunja1708&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=gunja1708&theme=tokyonight&hide_border=true" />
-</div>
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gunja1708&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</div>
+---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
-Open to SDE · Data Analyst · ML Intern opportunities — Summer 2026
-</div>
+### 🔍 FraudShield – SQL Fraud Detection Engine
+> Rule-based fraud detection system inspired by real-world fintech workflows.
+
+**Tech Stack:** SQL, Relational Databases
+
+✅ Advanced anomaly detection rules
+
+✅ Suspicious transaction pattern identification
+
+✅ High-value transaction monitoring
+
+✅ Fraud analytics dashboard (planned)
+
+🔗 Repository: [FraudShield](#)
+
+---
+
+### 🩺 ML Based Skin Cancer Detection
+> End-to-end machine learning application for skin lesion classification.
+
+**Tech Stack:** Python, Scikit-Learn, Streamlit
+
+✅ Complete ML pipeline
+
+✅ Interactive prediction interface
+
+✅ Deployed application
+
+✅ Production-ready workflow
+
+🔗 Repository: [Skin Cancer Detection](#)
+
+---
+
+## 💻 Technical Skills
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### AI / ML
+- Machine Learning
+- NLP
+- Data Pipelines
+- Scikit-Learn
+
+### Databases
+- SQL
+- Relational Databases
+
+### Core CS
+- Data Structures & Algorithms
+- OOP
+- Computer Networks
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📊 Competitive Programming
+
+### LeetCode
+- Solved: XXX+ Problems
+- Profile: [Add Link]
+
+### CodeChef
+⭐ 2-Star Programmer
+- Rating: 1410
+- Profile: [Add Link]
+
+### Codeforces
+- Rating: 1058
+- Profile: [Add Link]
+
+---
+
+## 🏆 Achievements
+
+🥈 National Semifinalist – Flipkart GRiD 7.0
+
+🏀 Gold Medalist – Inter-Year Basketball Championship
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gunja1708&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gunja1708" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunja1708&layout=compact" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced SQL
+- System Design Fundamentals
+- Machine Learning Engineering
+- Production AI Systems
+
+---
+
+## 🤝 Connect With Me
+
+📧 Email: jhagunja601@gmail.com
+
+💼 LinkedIn: [Add LinkedIn URL]
+
+💻 GitHub: https://github.com/gunja1708
+
+---
+
+### Motto
+
+> Building impactful software that solves real-world problems.
