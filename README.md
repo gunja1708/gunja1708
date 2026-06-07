@@ -1,161 +1,189 @@
-# Hi, I'm Gunja 👋
+<h1 align="center">Hi 👋, I'm Gunja</h1>
 
-### Computer Science Student | AI/ML Enthusiast | Competitive Programmer
+<h3 align="center">
+AI/ML Builder • SQL Enthusiast • Competitive Programmer
+</h3>
 
-🎓 B.E. Computer Science & Engineering @ Thapar Institute of Engineering & Technology (2023–2027)
+<p align="center">
+Building intelligent systems that solve real-world financial and healthcare problems.
+</p>
 
-🚀 Passionate about building AI-powered products, fraud detection systems, and scalable software solutions.
+<p align="center">
+  <a href="mailto:jhagunja601@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge">
+  </a>
+  
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
+  </a>
 
-💡 Currently working on:
-- LoanSense – AI Loan Document Verification Platform
-- Fraud Detection Systems using SQL
-- Machine Learning & NLP Applications
-
----
-
-## 🚀 Featured Projects
-
-### 🏦 LoanSense – AI Loan Document Verifier
-> AI-powered fintech platform for Indian borrowers.
-
-**Tech Stack:** Python, NLP, Machine Learning
-
-✅ Automated verification of Aadhaar, PAN, Form-16 and financial documents
-
-✅ Real-time document processing pipeline
-
-✅ Hindi-English chatbot for financial assistance
-
-✅ EMI projection and risk analysis engine
-
-🔗 Repository: [LoanSense](#)
+  <a href="https://github.com/gunja1708">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge">
+  </a>
+</p>
 
 ---
 
-### 🔍 FraudShield – SQL Fraud Detection Engine
-> Rule-based fraud detection system inspired by real-world fintech workflows.
+# 🚀 About Me
 
-**Tech Stack:** SQL, Relational Databases
+🎓 Computer Science Student at **Thapar Institute of Engineering & Technology**
 
-✅ Advanced anomaly detection rules
+🏆 National Semifinalist — Flipkart GRiD 7.0
 
-✅ Suspicious transaction pattern identification
+💻 Competitive Programmer
+- CodeChef ⭐⭐ (1410)
+- Codeforces (1058)
 
-✅ High-value transaction monitoring
+🧠 Interested in:
+- Artificial Intelligence
+- Machine Learning
+- FinTech Systems
+- Backend Development
+- Data Engineering
 
-✅ Fraud analytics dashboard (planned)
-
-🔗 Repository: [FraudShield](#)
-
----
-
-### 🩺 ML Based Skin Cancer Detection
-> End-to-end machine learning application for skin lesion classification.
-
-**Tech Stack:** Python, Scikit-Learn, Streamlit
-
-✅ Complete ML pipeline
-
-✅ Interactive prediction interface
-
-✅ Deployed application
-
-✅ Production-ready workflow
-
-🔗 Repository: [Skin Cancer Detection](#)
+🌱 Currently Building:
+- LoanSense
+- FraudShield SQL Engine
 
 ---
 
-## 💻 Technical Skills
+# 💼 Featured Projects
+
+## 🏦 LoanSense
+### AI-Powered Loan Verification Platform
+
+Built an intelligent platform that verifies financial documents and detects anomalies before loan approval.
+
+**Highlights**
+- PAN, Aadhaar & Form-16 Verification
+- NLP-based Information Extraction
+- Hindi-English AI Chatbot
+- EMI Projection Engine
+
+**Tech Stack**
+`Python` `NLP` `Machine Learning`
+
+🔗 Repository → [LoanSense]
+
+---
+
+## 🚨 FraudShield
+
+### SQL-Based Fraud Detection Engine
+
+Designed a fraud monitoring system inspired by real-world banking workflows.
+
+**Highlights**
+- Suspicious transaction detection
+- Anomaly identification
+- Rule-based risk scoring
+- Fraud analytics workflows
+
+**Tech Stack**
+`SQL` `Database Systems`
+
+🔗 Repository → [FraudShield]
+
+---
+
+## 🩺 Skin Cancer Detection
+
+### End-to-End Machine Learning Application
+
+Built and deployed a machine learning system for lesion classification.
+
+**Highlights**
+- Data preprocessing pipeline
+- ML model training
+- Interactive prediction interface
+- Production deployment
+
+**Tech Stack**
+`Python`
+`Scikit-Learn`
+`Streamlit`
+
+🔗 Repository → [Skin Cancer Detection]
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### AI / ML
+![Python](https://skillicons.dev/icons?i=python,cpp,c,mysql)
+
+### Machine Learning
+
 - Machine Learning
 - NLP
-- Data Pipelines
 - Scikit-Learn
-
-### Databases
-- SQL
-- Relational Databases
+- Data Pipelines
 
 ### Core CS
+
 - Data Structures & Algorithms
 - OOP
 - Computer Networks
+- Database Management Systems
 
 ### Tools
-- Git
-- GitHub
-- VS Code
+
+![Tools](https://skillicons.dev/icons?i=git,github,vscode)
 
 ---
 
-## 📊 Competitive Programming
+# 🏆 Achievements
+
+🥈 National Semifinalist — Flipkart GRiD 7.0
+
+🏀 Gold Medalist — Inter-Year Basketball Championship
+
+---
+
+# 📈 Coding Profiles
 
 ### LeetCode
-- Solved: XXX+ Problems
-- Profile: [Add Link]
+https://leetcode.com/u/gunja_1708/
 
 ### CodeChef
-⭐ 2-Star Programmer
-- Rating: 1410
-- Profile: [Add Link]
+⭐ 2-Star Programmer (1410)
+https://www.codechef.com/users/jhagunja601
 
 ### Codeforces
-- Rating: 1058
-- Profile: [Add Link]
+Rating: 1058
+https://codeforces.com/profile/Gunja17
 
 ---
 
-## 🏆 Achievements
-
-🥈 National Semifinalist – Flipkart GRiD 7.0
-
-🏀 Gold Medalist – Inter-Year Basketball Championship
-
----
-
-## 📈 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gunja1708&show_icons=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gunja1708&show_icons=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunja1708&layout=compact"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gunja1708" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunja1708&layout=compact" />
+<img src="https://streak-stats.demolab.com?user=gunja1708"/>
 </p>
 
 ---
 
-## 🌱 Currently Learning
+# 🎯 2026 Goals
 
-- Advanced SQL
-- System Design Fundamentals
-- Machine Learning Engineering
-- Production AI Systems
+☑ Build LoanSense MVP
 
----
+☑ Reach 500+ LeetCode Problems
 
-## 🤝 Connect With Me
+☑ Secure SDE Internship
 
-📧 Email: jhagunja601@gmail.com
+☑ Master SQL & System Design
 
-💼 LinkedIn: [Add LinkedIn URL]
-
-💻 GitHub: https://github.com/gunja1708
+☑ Contribute to Open Source
 
 ---
 
-### Motto
-
-> Building impactful software that solves real-world problems.
+<p align="center">
+<i>"Build. Learn. Ship. Repeat."</i>
+</p>
