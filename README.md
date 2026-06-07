@@ -1,123 +1,101 @@
-# Hi, I'm Gunja 👋
+<h1 align="center">Gunja</h1>
 
-### AI/ML Enthusiast • Competitive Programmer • Aspiring Software Engineer
+<p align="center">
+AI/ML • NLP • SQL • Competitive Programming
+</p>
 
-Building intelligent systems using Machine Learning, NLP, and Data Engineering to solve real-world problems.
-
-🎓 Computer Science Student @ Thapar Institute of Engineering & Technology
-
-🏆 Flipkart GRiD 7.0 National Semifinalist
-
-💻 CodeChef 2★ | Codeforces 1058
+<p align="center">
+Building intelligent systems that simplify financial decision-making and automate complex workflows.
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I'm Building
 
 ### 🏦 LoanSense
 
-AI-powered loan document verification platform for Indian borrowers.
-
-**Tech Stack:** Python, NLP, Machine Learning
-
-* Automated verification of Aadhaar, PAN, and financial documents
-* Real-time information extraction from loan documents
-* Fraud and anomaly detection pipeline
-* Hindi-English AI assistant for borrowers
-
-🔗 Repository: [LoanSense](https://github.com/gunja1708/LoanSense)
-
----
+AI-powered platform that helps borrowers understand, verify, and analyze loan documents.
 
 ### 🤖 BERT Answer Evaluator
 
-Transformer-based answer evaluation system using semantic similarity.
-
-**Tech Stack:** Python, TensorFlow, Hugging Face Transformers, BERT
-
-* Sentence pair classification using BERT
-* Automated answer grading
-* Semantic similarity scoring
-* NLP evaluation pipeline
-
-🔗 Repository: [BERT-Answer-Evaluator](https://github.com/gunja1708/BERT-Answer-Evaluator)
-
----
+Transformer-based system for semantic answer evaluation and automated grading.
 
 ### 🩺 Skin Cancer Detection
 
-Machine Learning application for lesion classification and prediction.
-
-**Tech Stack:** Python, Scikit-Learn, Streamlit
-
-* End-to-end ML pipeline
-* Data preprocessing and model training
-* Interactive prediction interface
-* Production-ready deployment
-
-🔗 Repository: [Skin-Cancer-Detection](https://github.com/gunja1708/Skin-Cancer-Detection)
+Machine learning application for medical risk prediction and classification.
 
 ---
 
-## 🛠️ Technologies
+## 🛠 Technology Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,tensorflow,git,github,vscode" />
-</p>
+### Languages
 
-| Category | Skills |
-|-----------|---------|
-| 💻 Languages | Python, C++, SQL, C |
-| 🤖 AI/ML | NLP, BERT, Scikit-Learn, Machine Learning |
-| 🗄️ Database | MySQL, Relational Databases |
-| 🛠️ Tools | Git, GitHub, VS Code |
-| 📚 Core CS | DSA, OOP, DBMS, Computer Networks |
+Python • C++ • SQL • C
 
----
+### Machine Learning
 
-## 🌱 Currently Learning
+NLP • BERT • Scikit-Learn • Data Pipelines
 
-* Advanced SQL
-* Machine Learning Engineering
-* System Design Fundamentals
-* Fraud Detection Systems
+### Databases
 
----
+MySQL • Relational Databases
 
-## 🏆 Achievements
+### Core CS
 
-🥈 National Semifinalist — Flipkart GRiD 7.0
+DSA • OOP • DBMS • Computer Networks
 
-🏀 Gold Medalist — Inter-Year Basketball Championship
+### Tools
+
+Git • GitHub • VS Code
 
 ---
 
-## 💻 Competitive Programming
+## 📈 Competitive Programming
 
-⭐ CodeChef: 2-Star Programmer (1410)
+⭐ CodeChef: 2★ (1410)
 
 ⚡ Codeforces: 1058
 
-🔗 LeetCode: https://leetcode.com/u/gunja_1708/
+🎯 Target: 500+ LeetCode Problems
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Highlights
 
-![Gunja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gunja1708\&show_icons=true)
+🥈 Flipkart GRiD 7.0 National Semifinalist
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gunja1708\&layout=compact)
+🏀 Inter-Year Basketball Gold Medalist
 
----
-
-## 📫 Connect With Me
-
-📧 Email: [jhagunja601@gmail.com](mailto:jhagunja601@gmail.com)
-
-💼 LinkedIn: https://www.linkedin.com/in/gunja-82a217300/
-
-💻 GitHub: https://github.com/gunja1708
+🎓 Computer Science Student @ TIET
 
 ---
 
-### "Build. Learn. Ship. Repeat. 🚀"
+## 🎯 2026 Goals
+
+□ Complete LoanSense MVP
+
+□ Build FraudShield SQL Engine
+
+□ Reach 500+ LeetCode Problems
+
+□ Secure an SDE Internship
+
+---
+
+## 📊 GitHub Analytics
+
+[GitHub Stats]
+
+[Top Languages]
+
+[Streak Stats]
+
+---
+
+## 🤝 Let's Connect
+
+📧 [jhagunja601@gmail.com](mailto:jhagunja601@gmail.com)
+
+💼 LinkedIn
+
+💻 GitHub
