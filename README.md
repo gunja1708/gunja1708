@@ -1,139 +1,98 @@
-<h1 align="center">Hi 👋, I'm Gunja</h1>
+# Hi, I'm Gunja 👋
 
-<h3 align="center">
-AI/ML Builder • SQL Enthusiast • Competitive Programmer
-</h3>
+### AI/ML Enthusiast • Competitive Programmer • Aspiring Software Engineer
 
-<p align="center">
-Building intelligent systems that solve real-world financial and healthcare problems.
-</p>
+Building intelligent systems using Machine Learning, NLP, and Data Engineering to solve real-world problems.
 
-<p align="center">
-  <a href="mailto:jhagunja601@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge">
-  </a>
-  
-  <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
-  </a>
+🎓 Computer Science Student @ Thapar Institute of Engineering & Technology
 
-  <a href="https://github.com/gunja1708">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge">
-  </a>
-</p>
+🏆 Flipkart GRiD 7.0 National Semifinalist
+
+💻 CodeChef 2★ | Codeforces 1058
 
 ---
 
-# 🚀 About Me
+## 🚀 Featured Projects
 
-🎓 Computer Science Student at **Thapar Institute of Engineering & Technology**
+### 🏦 LoanSense
 
-🏆 National Semifinalist — Flipkart GRiD 7.0
+AI-powered loan document verification platform for Indian borrowers.
 
-💻 Competitive Programmer
-- CodeChef ⭐⭐ (1410)
-- Codeforces (1058)
+**Tech Stack:** Python, NLP, Machine Learning
 
-🧠 Interested in:
-- Artificial Intelligence
-- Machine Learning
-- FinTech Systems
-- Backend Development
-- Data Engineering
+* Automated verification of Aadhaar, PAN, and financial documents
+* Real-time information extraction from loan documents
+* Fraud and anomaly detection pipeline
+* Hindi-English AI assistant for borrowers
 
-🌱 Currently Building:
-- LoanSense
-- FraudShield SQL Engine
+🔗 Repository: [LoanSense](https://github.com/gunja1708/LoanSense)
 
 ---
 
-# 💼 Featured Projects
+### 🤖 BERT Answer Evaluator
 
-## 🏦 LoanSense
-### AI-Powered Loan Verification Platform
+Transformer-based answer evaluation system using semantic similarity.
 
-Built an intelligent platform that verifies financial documents and detects anomalies before loan approval.
+**Tech Stack:** Python, TensorFlow, Hugging Face Transformers, BERT
 
-**Highlights**
-- PAN, Aadhaar & Form-16 Verification
-- NLP-based Information Extraction
-- Hindi-English AI Chatbot
-- EMI Projection Engine
+* Sentence pair classification using BERT
+* Automated answer grading
+* Semantic similarity scoring
+* NLP evaluation pipeline
 
-**Tech Stack**
-`Python` `NLP` `Machine Learning`
-
-🔗 Repository → [LoanSense]
+🔗 Repository: [BERT-Answer-Evaluator](https://github.com/gunja1708/BERT-Answer-Evaluator)
 
 ---
 
-## 🚨 FraudShield
+### 🩺 Skin Cancer Detection
 
-### SQL-Based Fraud Detection Engine
+Machine Learning application for lesion classification and prediction.
 
-Designed a fraud monitoring system inspired by real-world banking workflows.
+**Tech Stack:** Python, Scikit-Learn, Streamlit
 
-**Highlights**
-- Suspicious transaction detection
-- Anomaly identification
-- Rule-based risk scoring
-- Fraud analytics workflows
+* End-to-end ML pipeline
+* Data preprocessing and model training
+* Interactive prediction interface
+* Production-ready deployment
 
-**Tech Stack**
-`SQL` `Database Systems`
-
-🔗 Repository → [FraudShield]
+🔗 Repository: [Skin-Cancer-Detection](https://github.com/gunja1708/Skin-Cancer-Detection)
 
 ---
 
-## 🩺 Skin Cancer Detection
-
-### End-to-End Machine Learning Application
-
-Built and deployed a machine learning system for lesion classification.
-
-**Highlights**
-- Data preprocessing pipeline
-- ML model training
-- Interactive prediction interface
-- Production deployment
-
-**Tech Stack**
-`Python`
-`Scikit-Learn`
-`Streamlit`
-
-🔗 Repository → [Skin Cancer Detection]
-
----
-
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
 
-![Python](https://skillicons.dev/icons?i=python,cpp,c,mysql)
+Python • C++ • C • SQL • Bash
 
-### Machine Learning
+### Machine Learning & AI
 
-- Machine Learning
-- NLP
-- Scikit-Learn
-- Data Pipelines
+Machine Learning • NLP • Scikit-Learn • BERT • Data Pipelines
+
+### Databases
+
+MySQL • SQL • Relational Databases
 
 ### Core CS
 
-- Data Structures & Algorithms
-- OOP
-- Computer Networks
-- Database Management Systems
+Data Structures & Algorithms • OOP • DBMS • Computer Networks
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode)
+Git • GitHub • VS Code
 
 ---
 
-# 🏆 Achievements
+## 🌱 Currently Learning
+
+* Advanced SQL
+* Machine Learning Engineering
+* System Design Fundamentals
+* Fraud Detection Systems
+
+---
+
+## 🏆 Achievements
 
 🥈 National Semifinalist — Flipkart GRiD 7.0
 
@@ -141,49 +100,32 @@ Built and deployed a machine learning system for lesion classification.
 
 ---
 
-# 📈 Coding Profiles
+## 💻 Competitive Programming
 
-### LeetCode
-https://leetcode.com/u/gunja_1708/
+⭐ CodeChef: 2-Star Programmer (1410)
 
-### CodeChef
-⭐ 2-Star Programmer (1410)
-https://www.codechef.com/users/jhagunja601
+⚡ Codeforces: 1058
 
-### Codeforces
-Rating: 1058
-https://codeforces.com/profile/Gunja17
+🔗 LeetCode: Add Your Profile Link
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gunja1708&show_icons=true"/>
+![Gunja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gunja1708\&show_icons=true)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunja1708&layout=compact"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=gunja1708"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gunja1708\&layout=compact)
 
 ---
 
-# 🎯 2026 Goals
+## 📫 Connect With Me
 
-☑ Build LoanSense MVP
+📧 Email: [jhagunja601@gmail.com](mailto:jhagunja601@gmail.com)
 
-☑ Reach 500+ LeetCode Problems
+💼 LinkedIn: Add Your LinkedIn URL
 
-☑ Secure SDE Internship
-
-☑ Master SQL & System Design
-
-☑ Contribute to Open Source
+💻 GitHub: https://github.com/gunja1708
 
 ---
 
-<p align="center">
-<i>"Build. Learn. Ship. Repeat."</i>
-</p>
+### "Build. Learn. Ship. Repeat. 🚀"
