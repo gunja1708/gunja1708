@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Building intelligent systems that solve real-world problems in FinTech and Healthcare.
+Aspiring Software Engineer passionate about AI, Data and Scalable Systems.
 </p>
 
 <p align="center">
