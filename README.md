@@ -64,18 +64,31 @@ Aspiring Software Engineer passionate about AI, Data and Scalable Systems.
 
 ## 🚀 Featured Projects
 
-🏦 LoanSense
+### 🏦 LoanSense
 
-AI-powered platform for loan document verification and financial document analysis.
+AI-powered loan intelligence platform that helps users verify loan documents, compare loan offers, estimate long-term EMI burden, and choose the most suitable loan product.
 
-Tech Stack: Python • NLP • Machine Learning
+**Key Features**
 
-Automated document verification
-Information extraction from financial documents
-Fraud detection workflows
-Hindi-English AI assistant
+✅ Aadhaar, PAN & Form-16 verification
 
-🔗 Repository: https://github.com/gunja1708/LoanSense
+✅ Fraud and anomaly detection in uploaded documents
+
+✅ Multi-bank loan comparison engine
+
+✅ Personalized loan recommendations
+
+✅ 1–5 year EMI burden analysis
+
+✅ Total interest and repayment projections
+
+✅ Hindi-English financial assistant chatbot
+
+**Tech Stack**
+
+Python • NLP • Machine Learning • SQL
+
+🔗 Repository: [LoanSense](https://github.com/gunja1708/LoanSense)
 
 🤖 BERT Answer Evaluator
 
