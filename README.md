@@ -59,27 +59,19 @@ Machine Learning application for lesion classification and prediction.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Technologies
 
-### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,tensorflow,git,github,vscode" />
+</p>
 
-Python • C++ • C • SQL • Bash
-
-### Machine Learning & AI
-
-Machine Learning • NLP • Scikit-Learn • BERT • Data Pipelines
-
-### Databases
-
-MySQL • SQL • Relational Databases
-
-### Core CS
-
-Data Structures & Algorithms • OOP • DBMS • Computer Networks
-
-### Tools
-
-Git • GitHub • VS Code
+| Category | Skills |
+|-----------|---------|
+| 💻 Languages | Python, C++, SQL, C |
+| 🤖 AI/ML | NLP, BERT, Scikit-Learn, Machine Learning |
+| 🗄️ Database | MySQL, Relational Databases |
+| 🛠️ Tools | Git, GitHub, VS Code |
+| 📚 Core CS | DSA, OOP, DBMS, Computer Networks |
 
 ---
 
@@ -106,7 +98,7 @@ Git • GitHub • VS Code
 
 ⚡ Codeforces: 1058
 
-🔗 LeetCode: Add Your Profile Link
+🔗 LeetCode: https://leetcode.com/u/gunja_1708/
 
 ---
 
@@ -122,7 +114,7 @@ Git • GitHub • VS Code
 
 📧 Email: [jhagunja601@gmail.com](mailto:jhagunja601@gmail.com)
 
-💼 LinkedIn: Add Your LinkedIn URL
+💼 LinkedIn: https://www.linkedin.com/in/gunja-82a217300/
 
 💻 GitHub: https://github.com/gunja1708
 
