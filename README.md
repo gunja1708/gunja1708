@@ -64,17 +64,44 @@ Aspiring Software Engineer passionate about AI, Data and Scalable Systems.
 
 ## 🚀 Featured Projects
 
-### 🏦 LoanSense
+🏦 LoanSense
 
 AI-powered platform for loan document verification and financial document analysis.
 
-### 🤖 BERT Answer Evaluator
+Tech Stack: Python • NLP • Machine Learning
 
-Automated answer grading system using semantic similarity and transformers.
+Automated document verification
+Information extraction from financial documents
+Fraud detection workflows
+Hindi-English AI assistant
 
-### 🩺 Skin Cancer Detection
+🔗 Repository: https://github.com/gunja1708/LoanSense
 
-Machine learning-powered web application for lesion classification.
+🤖 BERT Answer Evaluator
+
+Transformer-based answer evaluation system using semantic similarity and sentence pair classification.
+
+Tech Stack: Python • TensorFlow • Hugging Face • BERT
+
+Semantic similarity scoring
+Automated answer grading
+NLP evaluation pipeline
+Transformer-based architecture
+
+🔗 Repository: https://github.com/gunja1708/BERT-Answer-Evaluator
+
+🩺 Skin Cancer Detection
+
+Machine learning application for skin lesion classification and prediction.
+
+Tech Stack: Python • Scikit-Learn • Streamlit
+
+End-to-end ML pipeline
+Interactive prediction interface
+Model training and deployment
+Real-time predictions
+
+🔗 Repository: https://github.com/gunja1708/Skin-Cancer-Detection
 
 ---
 
