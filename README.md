@@ -90,6 +90,22 @@ Python • NLP • Machine Learning • SQL
 
 🔗 Repository: [LoanSense](https://github.com/gunja1708/LoanSense)
 
+⚙️ Data-Driven Predictive Maintenance
+
+Developed a Remaining Useful Life (RUL) prediction system for turbofan engines using the NASA CMAPSS dataset. Implemented and compared Linear Regression, Random Forest, LSTM, and GRU models, with GRU achieving the best performance. Integrated Attention Mechanisms for explainable AI and sensor-level interpretability.
+
+Tech Stack: Python, TensorFlow, Keras, Scikit-Learn, Pandas, NumPy
+
+Highlights:
+
+Time-series forecasting using LSTM and GRU
+Attention-based Explainable AI
+Predictive Maintenance for industrial systems
+NASA CMAPSS turbofan engine dataset
+
+🔗 Repository: [Data-Driven-Predictive-Maintenance]([https://github.com/gunja1708/LoanSense](https://github.com/gunja1708/Data-Driven-Predictive-Maintenance)
+
+
 🤖 BERT Answer Evaluator
 
 Transformer-based answer evaluation system using semantic similarity and sentence pair classification.
