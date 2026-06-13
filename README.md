@@ -103,7 +103,7 @@ Attention-based Explainable AI
 Predictive Maintenance for industrial systems
 NASA CMAPSS turbofan engine dataset
 
-🔗 Repository: [Data-Driven-Predictive-Maintenance]([https://github.com/gunja1708/LoanSense](https://github.com/gunja1708/Data-Driven-Predictive-Maintenance)
+🔗 Repository: [Data-Driven-Predictive-Maintenance](https://github.com/gunja1708/Data-Driven-Predictive-Maintenance)
 
 
 🤖 BERT Answer Evaluator
@@ -117,7 +117,7 @@ Automated answer grading
 NLP evaluation pipeline
 Transformer-based architecture
 
-🔗 Repository: https://github.com/gunja1708/BERT-Answer-Evaluator
+🔗 Repository: [Bert AnswerEvaluator](https://github.com/gunja1708/BERT-Answer-Evaluator)
 
 🩺 Skin Cancer Detection
 
@@ -130,7 +130,7 @@ Interactive prediction interface
 Model training and deployment
 Real-time predictions
 
-🔗 Repository: https://github.com/gunja1708/Skin-Cancer-Detection
+🔗 Repository: [Skin Cancer Detection](https://github.com/gunja1708/Skin-Cancer-Detection)
 
 ---
 
